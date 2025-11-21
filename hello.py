@@ -2,9 +2,8 @@
 import time
 import os
 import pandas as pd
-print("Hello World")
-<<<<<<< Updated upstream
+print("Hello World!")
 print("This reduces  its timing")
-=======
 print("Shree RadhaKrishn")
->>>>>>> Stashed changes
+
+
