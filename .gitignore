@@ -5,3 +5,4 @@ passwords.txt
 *.cache
 node_modules/
 !important.log
+about.html
