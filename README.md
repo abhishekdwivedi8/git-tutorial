@@ -4,10 +4,12 @@ This is a simple example of how to use the [Mongoose](http://mongoosejs.com/) li
 ## the best gihub repo out there
 This is a readme file 
 The best ways are:
--Eat
--Sleep
--Code
--Repeat
+- Eat
+- Sleep
+- Code
+- Repeat
+
+#### Thank You!
 ## Installation
 
 ```bash
