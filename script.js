@@ -206,4 +206,4 @@ window.addEventListener('scroll', () => {
 });
 
 console.log('%c🚀 Portfolio Loaded Successfully!', 'color: #6366f1; font-size: 20px; font-weight: bold;');
-console.log('%cBuilt with passion by Abhishek Dwivedi', 'color: #8b5cf6; font-size: 14px;');
+console.log('%cDetailing by Abhishek Dwivedi', 'color: #8b5cf6; font-size: 14px;');
